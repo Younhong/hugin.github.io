@@ -17,4 +17,4 @@ Hugin is a project that started out from a movie called ‘아름다운 세상�
   > Hugin Application is connected to firebase database system, which is nosql database. Flutter provides a lot of plugins to support connection to firebase database system.
   
 # App Structure of Hugin Projects
-![허그인 앱 구조][./images/app.png]
+![허그인 앱 구조](./images/app.png)
