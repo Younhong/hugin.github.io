@@ -3,8 +3,7 @@
 Only part of source code that explains new functions will be shown since it is a private code for company.
 
 # About Hugin
-> Introducing Hugin Project
-Hugin is a project that started out from a movie called ‘아름다운 세상을 위하여’.
+Hugin started out from a movie called ‘Pay It Forward’. Main motivation of hugin company is that one's person's good act makes the whole world bright by passing benefits to each other.
 
 # Project Structure of Hugin Project
 * Hugin App
@@ -16,5 +15,35 @@ Hugin is a project that started out from a movie called ‘아름다운 세상�
 * Database
   > Hugin Application is connected to firebase database system, which is nosql database. Flutter provides a lot of plugins to support connection to firebase database system.
   
+# Other tools for project
+* Gitlab
+   > Gitlab is very nice tool for managing source code. It is similar to github, but unlike github, gitlab is provides better enviroment for developing with team with private repository. Our project manages three project in gitlab each for app, web, and server.
+* Slack
+  > Slack is very useful tool for communcating with developers. Also, slack provides notification channel connected with gitlab which means all the commits of gitlab can be notified and shown on slack.
+* Zeplin
+  > Zeplin is a tool for designer. It is similar to figma. By using zeplin, you can design application first and apply it on your application.
+  
 # App Structure of Hugin Projects
 ![허그인 앱 구조](./images/app.png)
+
+# What's New in Hugin Project 2020?
+New Features for Hugin Project
+
+1. Bloc Pattern (with flutter bloc)
+2. Level Up System
+3. Mission Invitation
+4. Social City
+5. Theme Exhibition
+6. Magazine
+7. Tutorial Mode
+8. Apple Login
+
+# Why Using Bloc Pattern?
+![Bloc](./images/bloc.png)
+> Bloc Pattern is a design pattern that manages state of application. By using bloc pattern, you can manage status of application very efficient.   
+> Let's say if you have 100 widgets in one page. On the press of one button, you only want to change one widget. However, if you do not use any design pattern, you have to render whole page which includes 100 widgets. It is very inefficient since you only want to change 1 part of page. By using bloc pattern, you can set status for each widgets, and change only status of widget you want to give modification rather than rebuilding whole page.   
+> For the state management of application, there are  many options like provider pattern, bloc pattern or redux pattern. From those options, we chose to use bloc pattern.   
+> Flutter provides plugin for bloc pattern which helps developers to approach easily.
+
+# Contact
+> If you have any questions regarding this project, please contact [younhong@kakao.com](younhong@kakao.com)
