@@ -17,11 +17,17 @@ Only part of source code that explains new functions will be shown since it is a
   
 # Other tools for project
 * Gitlab
-   > Gitlab is very nice tool for managing source code. It is similar to github, but unlike github, gitlab is provides better enviroment for developing with team with private repository. Our project manages three project in gitlab each for app, web, and server.
+   > Gitlab is very nice tool for managing source code. It is similar to github, but unlike github, gitlab provides better enviroment for developing with team on private repository. Our project is managing three project in gitlab each for app, web, and server.
 * Slack
   > Slack is very useful tool for communcating with developers. Also, slack provides notification channel connected with gitlab which means all the commits of gitlab can be notified and shown on slack.
 * Zeplin
   > Zeplin is a tool for designer. It is similar to figma. By using zeplin, you can design application first and apply it on your application.
+  
+# Environment
+> App: Android Studio, Flutter, Dart, Android or IOS Device(Real Device or Virtual Device)
+> Web: Android Studio, Flutter, Dart, Chrome
+> Server: Visual Studio Code, NodeJS(10), Typesript
+> Database: Google Cloud Firebase Platform
   
 # App Structure of Hugin Projects
 ![허그인 앱 구조](./images/app.png)
