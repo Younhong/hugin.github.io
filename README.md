@@ -30,14 +30,29 @@ Only part of source code that explains new functions will be shown since it is a
 ```html
 New Features for Hugin Project
 
-1. Bloc Pattern (with flutter bloc)
-2. Level Up System
-3. Mission Invitation
-4. Social City
-5. Theme Exhibition
-6. Magazine
-7. Tutorial Mode
-8. Apple Login
+  Mobile App
+    1. Bloc Pattern (with flutter bloc)
+    2. Level Up System
+    3. Mission Invitation
+    4. Social City
+    5. Theme Exhibition
+    6. Magazine
+    7. Tutorial Mode
+    8. Apple Login
+
+  Server
+    1. Deleting all user data when user leaves the app
+    2. Notification Message for like/comment/announcement
+
+  Web
+    1. User Management
+    2. Mission Management
+    3. Story Management
+    4. Theme Management
+    5. Announce/Help Management
+    6. Report Management
+    7. Banner Management
+
 ```
 
 # Why Using Bloc Pattern?
@@ -46,6 +61,11 @@ New Features for Hugin Project
 > Let's say if you have 100 widgets in one page. On the press of one button, you only want to change one widget. However, if you do not use any design pattern, you have to render whole page which includes 100 widgets. It is very inefficient since you only want to change 1 part of page. By using bloc pattern, you can set status for each widgets, and change only status of widget you want to give modification rather than rebuilding whole page.   
 > For the state management of application, there are  many options like provider pattern, bloc pattern or redux pattern. From those options, we chose to use bloc pattern.   
 > Flutter provides plugin for bloc pattern which helps developers to approach easily.
+
+# Application Link
+> [Android: https://play.google.com/store/apps/details?id=com.swfact.hugin](https://play.google.com/store/apps/details?id=com.swfact.hugin)   
+> [IOS: https://apps.apple.com/kr/app/hugin/id1477161344](https://apps.apple.com/kr/app/hugin/id1477161344)
+
 
 # Contact
 > If you have any questions regarding this project, please contact [younhong@kakao.com](younhong@kakao.com)
