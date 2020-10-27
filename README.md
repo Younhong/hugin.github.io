@@ -3,7 +3,7 @@
 Only part of source code that explains new functions will be shown since it is a private code for company.
 
 # About Hugin
-Hugin started out from a movie called ‘Pay It Forward’. Main motivation of hugin company is that one's person's good act makes the whole world bright by passing benefits to each other.
+> Hugin started out from a movie called ‘Pay It Forward’. Main motivation of hugin company is that one's person's good act makes the whole world bright by passing benefits to each other.
 
 # Project Structure of Hugin Project
 * Hugin App
@@ -27,6 +27,7 @@ Hugin started out from a movie called ‘Pay It Forward’. Main motivation of h
 ![허그인 앱 구조](./images/app.png)
 
 # What's New in Hugin Project 2020?
+```html
 New Features for Hugin Project
 
 1. Bloc Pattern (with flutter bloc)
@@ -37,6 +38,7 @@ New Features for Hugin Project
 6. Magazine
 7. Tutorial Mode
 8. Apple Login
+```
 
 # Why Using Bloc Pattern?
 ![Bloc](./images/bloc.png)
