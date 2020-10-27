@@ -24,10 +24,17 @@ Only part of source code that explains new functions will be shown since it is a
   > Zeplin is a tool for designer. It is similar to figma. By using zeplin, you can design application first and apply it on your application.
   
 # Environment
-> App: Android Studio, Flutter, Dart, Android or IOS Device(Real Device or Virtual Device)
-> Web: Android Studio, Flutter, Dart, Chrome
-> Server: Visual Studio Code, NodeJS(10), Typesript
-> Database: Google Cloud Firebase Platform
+> App:    
+>> Android Studio, Flutter, Dart, Android or IOS Device(Real Device or Virtual Device).
+
+> Web: 
+>> Android Studio, Flutter, Dart, Chrome.
+
+> Server: 
+>> Visual Studio Code, NodeJS(10), Typesript.
+
+> Database: 
+>> Google Cloud Firebase Platform.
   
 # App Structure of Hugin Projects
 ![허그인 앱 구조](./images/app.png)
