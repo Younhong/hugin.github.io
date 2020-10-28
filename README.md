@@ -1,6 +1,6 @@
 # Welcome to Younhong's Github Page
 > This page is guide document page for Hugin Project.
-Only part of source code that explains new functions will be shown since it is a private code for company.
+Only part of source code that explains new functions will be shown if necessary for the matter of security.
 
 # About Hugin
 > Hugin started out from a movie called ‘Pay It Forward’. Main motivation of hugin company is that one's person's good act makes the whole world bright by passing benefits to each other.
