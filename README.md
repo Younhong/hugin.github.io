@@ -1,9 +1,9 @@
 # Welcome to Younhong's Github Page
-> This page is guide document page for Hugin Project.
+* This page is guide document page for Hugin Project.
 Only part of source code that explains new functions will be shown if necessary for the matter of security.
 
 # About Hugin
-> Hugin started out from a movie called ‘Pay It Forward’. Main motivation of hugin company is that one's person's good act makes the whole world bright by passing benefits to each other.
+* Hugin started out from a movie called ‘Pay It Forward’. Main motivation of hugin company is that one's person's good act makes the whole world bright by passing benefits to each other.
 
 # Project Structure of Hugin Project
 * Hugin App
@@ -24,17 +24,17 @@ Only part of source code that explains new functions will be shown if necessary 
   > Zeplin is a tool for designer. It is similar to figma. By using zeplin, you can design application first and apply it on your application.
   
 # Environment
-> App:    
->> Android Studio, Flutter, Dart, Android or IOS Device(Real Device or Virtual Device).
+* App:    
+> Android Studio, Flutter, Dart, Android or IOS Device(Real Device or Virtual Device).
 
-> Web: 
->> Android Studio, Flutter, Dart, Chrome.
+* Web: 
+> Android Studio, Flutter, Dart, Chrome.
 
-> Server: 
->> Visual Studio Code, NodeJS(10), Typesript.
+* Server: 
+> Visual Studio Code, NodeJS(10), Typesript.
 
-> Database: 
->> Google Cloud Firebase Platform.
+* Database: 
+> Google Cloud Firebase Platform.
   
 # App Structure of Hugin Projects
 ![허그인 앱 구조](./images/app.png)
@@ -70,14 +70,14 @@ New Features for Hugin Project
 
 # Why Using Bloc Pattern?
 ![Bloc](./images/bloc.png)
-> Bloc Pattern is a design pattern that manages state of application. By using bloc pattern, you can manage status of application very efficient.   
-> Let's say if you have 100 widgets in one page. On the press of one button, you only want to change one widget. However, if you do not use any design pattern, you have to render whole page which includes 100 widgets. It is very inefficient since you only want to change 1 part of page. By using bloc pattern, you can set status for each widgets, and change only status of widget you want to give modification rather than rebuilding whole page.   
-> For the state management of application, there are  many options like provider pattern, bloc pattern or redux pattern. From those options, we chose to use bloc pattern.   
-> Flutter provides plugin for bloc pattern which helps developers to approach easily.
+* Bloc Pattern is a design pattern that manages state of application. By using bloc pattern, you can manage status of application very efficient.   
+* Let's say if you have 100 widgets in one page. On the press of one button, you only want to change one widget. However, if you do not use any design pattern, you have to render whole page which includes 100 widgets. It is very inefficient since you only want to change 1 part of page. By using bloc pattern, you can set status for each widgets, and change only status of widget you want to give modification rather than rebuilding whole page.   
+* For the state management of application, there are  many options like provider pattern, bloc pattern or redux pattern. From those options, we chose to use bloc pattern.   
+* Flutter provides plugin for bloc pattern which helps developers to approach easily.
 
 # Application Link
-> [Android: https://play.google.com/store/apps/details?id=com.swfact.hugin](https://play.google.com/store/apps/details?id=com.swfact.hugin)   
-> [IOS: https://apps.apple.com/kr/app/hugin/id1477161344](https://apps.apple.com/kr/app/hugin/id1477161344)
+* [Android: https://play.google.com/store/apps/details?id=com.swfact.hugin](https://play.google.com/store/apps/details?id=com.swfact.hugin)   
+* [IOS: https://apps.apple.com/kr/app/hugin/id1477161344](https://apps.apple.com/kr/app/hugin/id1477161344)
 
 
 # Contact
