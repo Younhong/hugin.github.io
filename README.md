@@ -18,7 +18,6 @@ Only part of source code that explains new functions will be shown if necessary 
 * Database: 
 > Google Cloud Firebase Platform.
 
-# Other tools for project
 * Gitlab
    > Gitlab is very nice tool for managing source code. It is similar to github, but unlike github, gitlab provides better enviroment for developing with team on private repository. Our project is managing three project in gitlab each for app, web, and server.
 * Slack
